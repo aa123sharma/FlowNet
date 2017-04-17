@@ -18,7 +18,7 @@ To get started with FlowNet, first compile caffe, by configuring a
 
     "Makefile.config" (example given in Makefile.config.example)
 
-then make with 
+then make with (Make sure you are in the build directory before running the command below)
 
     $ make -j 5 all tools
 
